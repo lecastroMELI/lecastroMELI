@@ -1,13 +1,23 @@
 # 💫 About Me:
 ```bash
 {
-    Olá: 'Letícia Castro, aqui 👩🏻‍💻', 
-    Mas pode me chamar de: '{ Le }',
-    Fiz parte do: {
+    Olá: 'Letícia Castro, aqui 👩🏻‍💻',
+    Mas_pode_me_chamar_de: 'Le',
+    Formação: {
+      FATEC: 'Processamento de dados',
+      TRYBE: 'Desenvolvimento Web'
+      ETEC: ['Informática', 'Programação Web'],
+    },
+    Fiz_parte_do: {
         Bootcamp,
         De: ['Backend', 'JAVA'],
         Do: 'Mercado Livre'
     }
+    Equipe_Atual: {
+        Squad: 'QA Automation',
+        Team: 'Shipping Calculator'
+        Company: 'MELI'
+    } 
 }
 ```
 
